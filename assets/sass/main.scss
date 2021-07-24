@@ -2,14 +2,15 @@
 
 @import 'abstracts/variables';
 
-@import 'base/base';
+@import 'base/reset';
 @import 'base/typography';
 
 // @import 'components/buttons';
 
-// @import 'layout/nav';
-// @import 'layout/header';
-// @import 'layout/articulo';
-// @import 'layout/autor';
-// @import 'layout/paginador';
-// @import 'layout/footer';
+@import 'layout/nav';
+@import 'layout/header';
+@import 'layout/organicos';
+@import 'layout/desde';
+@import 'layout/nosotros';
+@import 'layout/contacto';
+@import 'layout/footer';

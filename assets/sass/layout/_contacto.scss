@@ -1,0 +1,21 @@
+.contacto{
+    background-color: $jellybean;
+    color: $white;
+    height: 200px;
+    text-align: center;
+    .contacto__title{
+        font-size: 40px;
+        padding-top: 30px;
+    }
+    .contacto__button{
+        background-color: $white;
+        width: 300px;
+        font-size: 25px;
+        margin-top: 25px;
+        font-family: $raleway;
+        font-weight: $raleway-bold;
+        color: $granitegray;
+        padding: 10px;
+        border-radius: 30px;
+    }
+}

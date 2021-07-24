@@ -1,0 +1,18 @@
+header{
+    background-color: $jellybean;
+    color: $white;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    .hero__titles{
+        padding-top: 180px;
+    }
+    .hero__title1{
+        font-weight: $raleway-light;
+        font-size: $large;
+    }
+    .hero__title2{
+        font-weight: $raleway-bold;
+        font-size: $large;
+    }
+}

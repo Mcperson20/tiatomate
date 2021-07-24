@@ -1,0 +1,31 @@
+.nosotros{
+    text-align: center;
+    .nosotros__header{
+        background-color: $jellybean;
+        height: 200px;
+    }
+    h1{
+        font-weight: $raleway-bold;
+        font-size: $large;
+        color: $white;
+        text-align: center;
+        padding-top: 60px;
+    }
+    .nosotros__integrantes{
+        padding: 70px;
+        color: $granitegray;
+    }
+    .nosotros__integrantes img{
+        width: 300px;
+        height: auto;
+        margin-top: 30px;
+    }
+    .nosotros__integrantes h3{
+        font-size: 25px;
+        margin: 15px;
+    }
+    .nosotros__integrantes p{
+        padding: 10px 20%;
+        text-align: justify;
+    }
+}
